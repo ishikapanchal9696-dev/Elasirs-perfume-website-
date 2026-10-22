@@ -1,0 +1,7 @@
+{
+  "name": "ELASIRS Luxury Fragrance House",
+  "description": "Premium haute perfumery e-commerce experience featuring bespoke fragrances, artisanal notes, fragrance finder quiz, and seamless ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
